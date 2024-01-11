@@ -41,16 +41,16 @@ Download the 82M model from [here](#).
 ## Figures
 
 ### Prediction Results of 10M Model
-![Prediction Results of 10M Model](output10M.png)
+![Prediction Results of 10M Model](img/output10M.png)
 
 ### Prediction Results of 82M Model
-![Prediction Results of 82M Model](output82M.png)
+![Prediction Results of 82M Model](img/output82M.png)
 
 ### Training of 10M Model
-![Training of 10M Model](outputLoss10M.png)
+![Training of 10M Model](img/outputLoss10M.png)
 
 ### Training of 82M Model
-![Training of 82M Model](outputLoss82.png)
+![Training of 82M Model](img/outputLoss82.png)
 
 ## Conclusion
 🔍 Demonstration of deep learning techniques in detecting circles in noisy environments.
