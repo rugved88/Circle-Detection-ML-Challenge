@@ -16,8 +16,8 @@ This repository contains the code and models for the Circle Detection ML Challen
 - **Model Architecture:** 🏗️ Sequential CNN architecture.
 - **Training and Evaluation:** 📚 Using custom loss functions and IoU metrics.
 
-Download the 10M model from [here](#).
-Download the 82M model from [here](#).
+Download the 10M model from [here](https://drive.google.com/file/d/1LWZ-DMplO7Un-KQbCuHVfNz_e5-IujnP/view?usp=drive_link).
+Download the 82M model from [here](https://drive.google.com/file/d/1XAoDWqFin-hM5hBfz3DghsGSdMOu_2R3/view?usp=sharing).
 
 ## Results
 📈 Detailed analysis of both models' performance in detecting circles under noisy conditions included in PDF attached.
