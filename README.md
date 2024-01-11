@@ -41,7 +41,7 @@ Download the 82M model from [here](#).
 ## Figures
 
 ### Prediction Results of 10M Model
-![Prediction Results of 10M Model](img/output.png)
+![Prediction Results of 10M Model](img/output10M.png)
 
 ### Prediction Results of 82M Model
 ![Prediction Results of 82M Model](img/output82M.png)
